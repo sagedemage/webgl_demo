@@ -7,5 +7,5 @@ My experience is from SDL2 and WebGL is a lot harder than I thought since I am n
 
 ## Resources
 - Turotial: [IndigoCS-webgl-tutorials/tree/master/01 - Simple Triangle](https://github.com/sessamekesh/IndigoCS-webgl-tutorials/tree/master/01%20-%20Simple%20Triangle)
-- Thanks to [sesseamekesh](https://github.com/sessamekesh/IndigoCS-webgl-tutorials/commits?author=sessamekesh) for the tutorial
+- Thanks to [Kamaron Peterson](https://github.com/sessamekesh) for the tutorial
 
